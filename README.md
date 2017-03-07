@@ -1,2 +1,2 @@
 # hello-me
-starting with git today
+Hey, today is my first day with GIT. Lets c how this goes.
